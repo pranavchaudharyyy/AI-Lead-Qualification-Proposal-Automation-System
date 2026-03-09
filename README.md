@@ -49,6 +49,6 @@ AI automatically generates personalized proposals based on lead information and 
 
 ## Proposal Generated
 
-![Proposal](proposal_recieved.png)
+![Proposal](proposal_received.png)
 
-Pranav
+
