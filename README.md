@@ -31,6 +31,24 @@ The system collects lead information, analyzes it using AI, generates a custom p
 
 AI automatically generates personalized proposals based on lead information and sends them directly to the client.
 
-## Author
+## Automation Workflow
+
+![Workflow](workflow.png)
+
+## Airtable Lead Database
+
+![Airtable](Lead_Base.png)
+
+## Gmail Automation Module
+
+![Gmail Module](Gmail_Module.png)
+
+## Email Received by Client
+
+![Email Received](email_received.png)
+
+## Proposal Generated
+
+![Proposal](proposal_recieved.png)
 
 Pranav
