@@ -24,9 +24,7 @@ The system collects lead information, analyzes it using AI, generates a custom p
 - Slack (Team notifications)
 
 ## System Architecture
-
-![Automation Workflow](images/workflow.png)
-
+![Workflow](workflow.png)
 ## Example Output
 
 AI automatically generates personalized proposals based on lead information and sends them directly to the client.
